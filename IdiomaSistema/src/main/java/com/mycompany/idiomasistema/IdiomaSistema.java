@@ -15,5 +15,6 @@ public class IdiomaSistema {
     public static void main(String[] args) {
         Locale idiomaSistema = Locale.getDefault();
         System.out.println("Idioma do sistema: " + idiomaSistema.toString());
+
     }
 }
